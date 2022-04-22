@@ -11,9 +11,14 @@
       "text": "This is feedback 2 from the backend"
     },
     {
-      "id": 3,
-      "rating": 7,
-      "text": "This is feedback 3 from the backend"
+      "text": "This is updated feedback 3 from the backend",
+      "rating": 9,
+      "id": 3
+    },
+    {
+      "text": "I had a good service",
+      "rating": 10,
+      "id": 4
     }
   ]
 }
